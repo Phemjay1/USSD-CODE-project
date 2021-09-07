@@ -1,1 +1,1 @@
-#  Functioning-USSD-CODE-bank code
+#  Functioning-USSD-BANK-CODE
