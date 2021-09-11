@@ -3,24 +3,23 @@ body {
     background-color: slateblue;
 }
 p{
-   background-color: white;
-   color: black;
-   height: 80px;
-   line-height: 40px;
+   
+  margin: 150px ;
+  font-size: 35px
+}
+h3 {
+   background-color: whitesmoke;
    font-size: 35px;
-   margin-top: 100px;
-   
-   
+   width: 100%;
 }
 #btnClick{
    width: 450px;
    height: 80px;
    font-size: 50px;
    position: absolute;
-   display: inline-flex;
+   display: block;
    background-color: transparent;
-   
-  border-color: purple;
+  border-color: fuchsia blue red purple;
   margin : 500px 0px 0px 150px;
 }
 
@@ -31,19 +30,27 @@ p{
  
 }
 
-div{
+.main{
    display: flex;
    background-color: white;
    width: 90%;
    margin: 50px;
-   height: 1000px
+   height: 1000px;
+   justify-content: space-between
 }
-.font{
-   margin: 200px 0px 0px 210px;
+h2{
+   margin: 50px;
    color: red;
 font-size: 80px
    
 }
-.click{
+h1{
+color: darkblue;
+font-size: 90px;
+margin-top:50px
+   
+}
+.test{
+color: peru;
    
 }
